@@ -7,7 +7,6 @@ Je compte utilser :
 
 -la POO -> Creer une classe joueur pour le marteau, la vie et le temps de maintien en vie. Creer une clase taupe qui apparaitront pendant un intervalle de 2sec il faudra cliquer dessus avec un touche du clavier et/ou de la souris(necessitera le module random)
 
-
 -le module Time afin de voir combien de temps le joueur tiens et pour le temps d apparition des taupes
 
 
