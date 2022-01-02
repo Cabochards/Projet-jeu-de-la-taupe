@@ -1,9 +1,9 @@
 # Projet-jeu-de-la-taupe 
 Le jeu est un chasse taupe. Le joueur possedra un marteau lui permettant de taper les taupes (des commandes precises et differents vont devoir etre utilise), s'il en rate une il perdra de la vie au contraire il en gagne. Le but est de frapper les taupes constamment afin de maintenir notre barre de vie a un chiffre superieur a 0 . Le but du jeu est de rester vivant le plus longtemps possible.
-![poggers-hammer](https://user-images.githubusercontent.com/90553363/147873355-febcea57-520f-4570-be03-464e2573bcd5.gif) 
-![hi8kumym5vly](https://user-images.githubusercontent.com/90553363/147873429-b38f37bb-c105-4b3a-96e8-fd3fe5e86bf3.png)
+![poggers-hammer](https://user-images.githubusercontent.com/90553363/147873355-febcea57-520f-4570-be03-464e2573bcd5.gif) ![Mole](https://user-images.githubusercontent.com/90553363/147873435-3d5b97d4-2ccc-4dbe-9bc6-01c78d6744d4.png)
 
 Je compte utilser/faire:
+
 
 - la POO -> Creer une classe joueur pour le marteau, la vie et le temps de maintien en vie. Creer une clase taupe qui apparaitront pendant un intervalle de 2sec il faudra cliquer dessus avec un touche du clavier et/ou de la souris(necessitera le module random)
 
