@@ -1,7 +1,6 @@
 # Projet-jeu-de-la-taupe 
 Le jeu est un chasse taupe. Le joueur possedra un marteau lui permettant de taper les taupes (des commandes precises et differents vont devoir etre utilise), s'il en rate une il perdra de la vie au contraire il en gagne. Le but est de frapper les taupes constamment afin de maintenir notre barre de vie a un chiffre superieur a 0 . Le but du jeu est de rester vivant le plus longtemps possible.
-
-![Mole](https://user-images.githubusercontent.com/90553363/147873097-54244635-5941-452d-90ce-d57ef192619b.png)
+![poggers-hammer](https://user-images.githubusercontent.com/90553363/147873355-febcea57-520f-4570-be03-464e2573bcd5.gif) ![Mole](https://user-images.githubusercontent.com/90553363/147873097-54244635-5941-452d-90ce-d57ef192619b.png)
 
 Je compte utilser/faire:
 
