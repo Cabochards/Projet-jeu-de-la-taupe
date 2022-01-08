@@ -8,4 +8,4 @@
 - Mon Curseur est un marteau ☑ => Stackoverflow
 
 08/01/2022
-- Faire apparaitre mes taupes a plus endroits precis mais au hasard☑
+- Faire apparaitre mes taupes a plus endroits precis mais au hasard☑ rd choise https://docs.python.org/3/library/random.html
