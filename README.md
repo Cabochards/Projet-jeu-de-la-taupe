@@ -9,8 +9,6 @@ Je compte utilser/faire:
 
 - la POO -> Creer une classe joueur pour le marteau, la vie et le temps de maintien en vie. Creer une clase taupe qui apparaitront pendant un intervalle de 2sec il faudra cliquer dessus avec un touche du clavier et/ou de la souris(necessitera le module random)
 
-- le module Time afin de voir combien de temps le joueur tiens et pour le temps d apparition des taupes
-
-- un ecran de game over avec un gif et un tableau de score 
+- Pygame pour les interactions entre objet
 
 ![billy-rebeudeter](https://user-images.githubusercontent.com/90553363/147873100-e66432fb-2fd7-437b-830d-c5746fe2be8e.gif)
