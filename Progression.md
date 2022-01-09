@@ -13,4 +13,5 @@
 - Faire en sorte que qd je clique droit sur la taupe elle disparaitre⬛
 
 09/01/2022
--Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
+- Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
+- Améliorer la qualité visuel du jeu
