@@ -15,8 +15,11 @@
 
 09/01/2022
 - Faire en sorte que qd je clique droit sur la taupe elle disparait☑ j avais rajoute des methodes spawn en trop
-- Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
+- Barre de vie: elle defile toute seule,on regagne sa vie en touchant ☑
+- J ai separe l ecran et les hit boxes afin que quand t as clique sur ton ecran tu perds la vie si tu cliques sur la taupe t en gagnes☑
 - Améliorer la qualité visuel du jeu☑
+- Ameliorer la gestion des hps et des degats => https://www.youtube.com/watch?v=GI7Hx9gzDNU&t=1247s&ab_channel=Graven-Développement
+- Nombre de clique coherent aux hps de la taupe☑ 
 - Faire qu a chaque erreur de clique la taupe change de difficulte☑ 
 - PROBLEME mineur les hps de nes taupes qui se comportent bizzarement MAIS cela rajoute clairement de la difficulte ?
 
