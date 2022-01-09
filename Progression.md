@@ -10,4 +10,7 @@
 08/01/2022
 - Faire apparaitre mes taupes a plus endroits precis mais au hasard☑ => https://docs.python.org/3/library/random.html
 - Changer mon curseur
-- Faire en sorte que qd je clique droit sur la taupe elle disparait☑ => Appel a un ami difficulte je galerai a faire une methode alors qu il etait plus simple de changer le main
+- Faire en sorte que qd je clique droit sur la taupe elle disparaitre⬛
+
+09/01/2022
+-Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
