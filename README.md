@@ -7,7 +7,7 @@ Le jeu est un chasse taupe. Le joueur possedra un marteau lui permettant de tape
 Je compte utilser/faire:
 
 
-- la POO -> Creer une classe joueur pour le marteau, la vie et le temps de maintien en vie. Creer une clase taupe qui apparaitront pendant un intervalle de 2sec il faudra cliquer dessus avec un touche du clavier et/ou de la souris(necessitera le module random)
+- la POO -> Creer une classe joueur pour le marteau, la vie et le temps de maintien en vie. Creer une clase taupe qui restera tant qu on a pas clique dessus plus elle vous fera perdre des hps.
 
 - Pygame pour les interactions entre objet
 
