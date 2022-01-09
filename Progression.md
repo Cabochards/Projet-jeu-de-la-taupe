@@ -22,11 +22,11 @@
 
 Bilan:
  
-J'ai pas besoin d en faire trop je voulai partir faire 100 methodes mais c est plus simple.
-J en ai plus appris sur les modules que j utilise random pygame.
-Je ferai plutot mon code mais en vrai ct marrant pour une premiere fois.
+- J'ai pas besoin d en faire trop je voulai partir faire 100 methodes mais c est plus simple.
+- J en ai plus appris sur les modules que j utilise random pygame.
+- Je ferai plutot mon code mais en vrai ct marrant pour une premiere fois.
 
-Faut que je fasse un boutton start.
-Faut que je fasse un gameover.
-Faut que je fasse un chronometre pour le score
-Faut que je repare le PROBLEME .
+- Faut que je fasse un boutton start.
+- Faut que je fasse un gameover.
+- Faut que je fasse un chronometre pour le score
+- Faut que je repare le PROBLEME.
