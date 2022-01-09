@@ -15,4 +15,3 @@
 09/01/2022
 - Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
 - Améliorer la qualité visuel du jeu☑
-- 
