@@ -18,4 +18,4 @@
 - Barre de vie: elle defile toute seule,on regagne sa vie en touchant les taupes on en perd tant que t'as pas touche la taupe ou quand t'as clique sur l'écran☑
 - Améliorer la qualité visuel du jeu☑
 - Faire qu a chaque erreur de clique la taupe change de difficulte☑ 
-- PROBLEME si je fais mourrir une taupe marron mes autres taupes changent d hp
+- PROBLEME mineur les hps de nes taupes qui se comportent bizzarement MAIS cela rajoute clairement de la difficulte
